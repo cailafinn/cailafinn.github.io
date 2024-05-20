@@ -23,7 +23,6 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   A software engineer and motorbike fanatic. Sometimes she writes about bikes
   she's ridden and stuff she's working on for fun. 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cailafinn
 
